@@ -9,4 +9,8 @@ I'm a Computer Science graduate experienced with Figma, Adobe XD, Laravel, React
 ### Reach out on:
 - 💻 ricardocanales.com
 - 📩 ricardo@canales.mx
-- (/assets/images/linkedin.svg) Ricardo Lopez Canales
+- <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="/images/linkedin.svg">
+  <source media="(prefers-color-scheme: light)" srcset="/images/linkedin.svg">
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="/images/linkedin.svg">
+</picture> Ricardo Lopez Canales
