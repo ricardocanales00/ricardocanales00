@@ -4,7 +4,7 @@ I'm a Computer Science graduate experienced with Figma, Adobe XD, Laravel, React
 ## Experience
 * **Currently**: UX Designer @ Oracle
 * Program Manager Intern @ Amazon (2022)
-* Project Analyst Intern @ General Electric
+* Project Analyst Intern @ General Electric (2021-2022)
 
 ### Reach out on:
 - 💻 [ricardocanales.com](https://www.ricardocanales.com)
