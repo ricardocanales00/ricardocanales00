@@ -9,3 +9,4 @@ I'm a Computer Science graduate experienced with Figma, Adobe XD, Laravel, React
 ### Reach out on:
 - 💻 ricardocanales.com
 - 📩 ricardo@canales.mx
+- (/assets/images/linkedin.svg) Ricardo Lopez Canales
