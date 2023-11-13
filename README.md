@@ -9,7 +9,7 @@ I'm a Computer Science graduate experienced with Figma, Adobe XD, Laravel, React
 ## Feature repositories
 + [Coding challenges](https://github.com/ricardocanales00/Coding-challenges)
 + [Machine learning projects](https://github.com/ricardocanales00/Machine-Learning)
-+ [Data bases challenges](https://github.com/ricardocanales00/)
++ [SQL challenges]([https://github.com/ricardocanales00/](https://github.com/ricardocanales00/SQL-Challenges))
 
 ### Reach out on:
 - 💻 [ricardocanales.com](https://www.ricardocanales.com)
