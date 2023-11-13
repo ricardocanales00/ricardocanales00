@@ -6,7 +6,7 @@ I'm a Computer Science graduate experienced with Figma, Adobe XD, Laravel, React
 * Program Manager Intern @ Amazon (2022)
 * Project Analyst Intern @ General Electric (2021-2022)
 
-## Feature repositories
+## Featured repositories
 + [Coding challenges](https://github.com/ricardocanales00/Coding-challenges)
 + [Machine learning projects](https://github.com/ricardocanales00/Machine-Learning)
 + [SQL challenges](https://github.com/ricardocanales00/SQL-Challenges)
